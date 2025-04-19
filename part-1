@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <header class="bg-blue-600 text-white p-4">
+    <h1 class="text-3xl font-bold">vansh chauhan</h1>
+    <p class="text-sm">Web Developer | Designer | Learner</p>
+  </header>
+
+  <main class="p-6 space-y-8">
+    <section>
+      <h2 class="text-xl font-semibold">About Me</h2>
+      <p>i like to read manga watch anime and </p>
+    </section>
+
+    <section>
+      <h2 class="text-xl font-semibold">Projects</h2>
+      <ul class="list-disc list-inside">
+        <li>Project 1</li>
+        <li>Project 2</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-xl font-semibold">Contact</h2>
+      <p>Email: 3dvansh@gamil.com</p>
+    </section>
+  </main>
+
+  <footer class="bg-blue-600 text-white text-center p-4">
+    &copy; 2025 vansh chauhan
+  </footer>
+</body>
+</html>
